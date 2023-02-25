@@ -1,0 +1,24 @@
+{
+  "name": "01-finsweet",
+  "version": "1.0.0",
+  "description": "My Practical Work Exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gaidysheff/PracticalWork-FINSWEET.git"
+  },
+  "author": "Eugene Gaidyshev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gaidysheff/PracticalWork-FINSWEET/issues"
+  },
+  "homepage": "https://github.com/Gaidysheff/PracticalWork-FINSWEET#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "bootstrap-icons": "^1.10.3",
+    "sass-rem": "^3.0.0"
+  }
+}
